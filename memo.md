@@ -10,5 +10,9 @@
 - Make edges/faces: f
 - Extrude out: e
 - Clear g/r/s: alt + g/r/s
+- Duplicate vertices: shift + d
+- Make seperate object with selected vertices: p
+- Hide object: h
+- Bring all back: alt + h
 
 
