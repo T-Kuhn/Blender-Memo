@@ -14,5 +14,6 @@
 - Make seperate object with selected vertices: p
 - Hide object: h
 - Bring all back: alt + h
-
+- Show transform infos: n
+- Move vertices on edge: gg
 
