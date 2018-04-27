@@ -16,4 +16,6 @@
 - Bring all back: alt + h
 - Show transform infos: n
 - Move vertices on edge: gg
+- Open UV menu: u (unwrap can be done in here)
+- Open Edged menu: ctrl + e (seam can be marked in here)
 
